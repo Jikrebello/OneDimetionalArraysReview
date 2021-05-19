@@ -1,0 +1,9 @@
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimetionalArraysReview\bin\Debug\OneDimetionalArraysReview.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimetionalArraysReview\bin\Debug\OneDimetionalArraysReview.exe
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimetionalArraysReview\bin\Debug\OneDimetionalArraysReview.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimetionalArraysReview\obj\Debug\OneDimetionalArraysReview.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimetionalArraysReview\obj\Debug\OneDimetionalArraysReview.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimetionalArraysReview\obj\Debug\OneDimetionalArraysReview.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimetionalArraysReview\obj\Debug\OneDimetionalArraysReview.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimetionalArraysReview\obj\Debug\OneDimetionalArraysReview.exe
+E:\Visual Studio Projects\C# Intermediate Programming\OneDimetionalArraysReview\obj\Debug\OneDimetionalArraysReview.pdb
